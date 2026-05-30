@@ -1,0 +1,28 @@
+---
+title: "Presentations"
+---
+
+## 2026
+
+- Okano, Y., and Takaku, R.  
+  "The Health Returns to School Air Conditioning: Evidence from Heat-Related Ambulance Use in Japan."  
+  European Health Economics Association Conference 2026, Rotterdam, the Netherlands, July 15--17, 2026.
+
+- Okano, Y.  
+  "The Health Effects of School Air Conditioning: Evidence from Ambulance Transport Data."  
+  EIPPE Public Research Seminar: The 12th Education Data Science Seminar, Okayama University, Japan, January 21, 2026.  
+  Invited oral presentation.
+
+## 2025
+
+- Okano, Y.  
+  "The Impact of School Air Conditioning on Child Health: Evidence from Japan."  
+  Japanese Economic Association 2025 Autumn Meeting, Hirosaki University, Japan, September 13, 2025.  
+  Poster presentation.
+
+## 2024
+
+- Okano, Y.  
+  "The Effect of Public School Air Conditioning on Ambulance Uses of Students."  
+  The 22nd Young Researchers' Seminar, Japan Health Economics Association, Gakushuin University, Japan, September 7, 2024.  
+  Oral presentation.

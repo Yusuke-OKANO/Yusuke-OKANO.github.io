@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Yusuke Okano"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: presentations.qmd
+        text: Presentations
+      - href: cv.qmd
+        text: CV
+    right:
+      - href: index-ja.qmd
+        text: 日本語
+      - icon: github
+        href: https://github.com/Yusuke-OKANO
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

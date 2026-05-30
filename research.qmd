@@ -1,0 +1,21 @@
+---
+title: "Research"
+---
+
+## Working Papers
+
+### The Health Returns to School Air Conditioning: Evidence from Heat-Related Ambulance Use in Japan
+
+This paper studies whether school air conditioning reduces ambulance uses among school-age children in Japan.
+
+Status: Under revision.
+
+## Work in Progress
+
+### Energy Affordability and Summer Health
+
+This project examines whether electricity affordability affects summer health risks at home.
+
+### Cold Temperature, Housing, and Health
+
+This project studies the health impacts of cold temperature exposure, with a focus on in-home ambulance use in Japan.
