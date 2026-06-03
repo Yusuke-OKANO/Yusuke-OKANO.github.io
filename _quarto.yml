@@ -1,5 +1,8 @@
 project:
   type: website
+  output-dir: docs
+  resources:
+    - files/CV_Yusuke_Okano.pdf
 
 website:
   title: "Yusuke Okano"
