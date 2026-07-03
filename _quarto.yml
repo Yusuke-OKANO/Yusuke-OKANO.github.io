@@ -6,6 +6,8 @@ project:
 
 website:
   title: "Yusuke Okano"
+  site-url: "https://yusuke-okano.github.io/"
+  description: "Yusuke Okano is a PhD student in Economics at Hitotsubashi University. His research interests include health economics, environmental economics, and applied microeconometrics."
   navbar:
     left:
       - href: index.qmd
@@ -19,8 +21,8 @@ website:
     right:
       - href: index-ja.qmd
         text: 日本語
-      - icon: github
-        href: https://github.com/Yusuke-OKANO
+      # - icon: github
+      #   href: https://github.com/Yusuke-OKANO
 
 format:
   html:
