@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - files/CV_Yusuke_Okano.pdf
+    - google8b760d6b56e7c3b4.html
 
 website:
   title: "Yusuke Okano"

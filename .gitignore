@@ -8,3 +8,17 @@ _site/
 Thumbs.db
 /.quarto/
 **/*.quarto_ipynb
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.run.xml
+*.bcf
+fonts/
+*.ttf
+*.otf

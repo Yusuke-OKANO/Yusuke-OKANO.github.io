@@ -6,13 +6,12 @@ I am a Ph.D. student in Economics at Hitotsubashi University.
 
 My research interests are in health economics, environmental economics, and applied microeconometrics. My current research studies how climate adaptation mitigate health burden.
 
-[CV (PDF)](files/CV_Yusuke_Okano.pdf)
 
 ## Research interests
 
 - Health economics
 - Environmental economics
-- Applied microeconometrics
+- Applied microeconomics
 - Climate adaptation
 
 ## Contact
