@@ -1,22 +1,54 @@
 ---
 title: "Yusuke Okano"
+subtitle: "Ph.D. Student in Economics · Hitotsubashi University"
+lang: en
 ---
 
-I am a Ph.D. student in Economics at Hitotsubashi University.
+::: {.home-intro}
 
-My research interests are in health economics, environmental economics, and applied microeconometrics. My current research studies how climate adaptation mitigate health burden.
+**Health Economics · Environmental Economics · Applied Microeconomics**
+
+My research lies at the intersection of health and environmental economics. 
+I study how environmental conditions and public policies affect health, 
+with particular interests in climate adaptation, energy affordability, 
+and the built environment.
+
+:::
+
+::: {.home-links}
+
+[CV (PDF)](files/CV_Yusuke_Okano.pdf){.btn .btn-primary}
+
+[Research](research.qmd){.btn .btn-outline-primary}
+
+[Email](mailto:yokano.amecon@gmail.com){.btn .btn-outline-secondary}
+
+:::
 
 
-## Research interests
+## Selected Research
 
-- Health economics
-- Environmental economics
-- Applied microeconomics
-- Climate adaptation
+### The Health Returns to School Air Conditioning: Evidence from Summer Ambulance Use in Japan
+
+*Revised and resubmitted at the European Journal of Health Economics.*
+
+This paper studies whether classroom air conditioning improves child health, 
+using school-origin ambulance use in Japan and quasi-experimental variation 
+in public-school air-conditioning installation.
+
+
+### Electricity Price Hikes, Temperature, and Health: Evidence from Japan
+
+This paper studies how increases in regulated electricity tariffs affect 
+home-origin ambulance use and how the health response varies with outdoor temperature.
+
+[More about my research →](research.qmd)
+
 
 ## Contact
 
-- Email1: yokano.amecon"at"gmail.com
-- Email2: ed255003"at"g.hit-u.ac.jp
+**Yusuke Okano**  
+Graduate School of Economics  
+Hitotsubashi University
 
-[日本語版はこちら](index-ja.html)
+Email: [yokano.amecon@gmail.com](mailto:yokano.amecon@gmail.com)

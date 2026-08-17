@@ -1,30 +1,39 @@
 project:
   type: website
   output-dir: docs
-  
+
 resources:
-    - files/CV_Yusuke_Okano.pdf
-    - google8b760d6b56e7c3b4.html
+  - files/**
+  - google8b760d6b56e7c3b4.html
 
 website:
   title: "Yusuke Okano"
   site-url: "https://yusuke-okano.github.io/"
-  description: "Yusuke Okano is a PhD student in Economics at Hitotsubashi University. His research interests include health economics, environmental economics, and applied microeconometrics."
+  description: "Yusuke Okano is a Ph.D. student in Economics at Hitotsubashi University. His research lies at the intersection of health economics and environmental economics, with interests in climate adaptation, energy, housing, and applied microeconomics."
+
+  open-graph: true
+  search: false
+
   navbar:
+    background: light
+    foreground: dark
+
     left:
-      - href: index.qmd
-        text: Home
       - href: research.qmd
         text: Research
-      - href: presentations.qmd
-        text: Presentations
-      - href: cv.qmd
+
+      - href: files/CV_Yusuke_Okano.pdf
         text: CV
+
     right:
       - href: index-ja.qmd
         text: 日本語
-      # - icon: github
-      #   href: https://github.com/Yusuke-OKANO
+
+      - icon: github
+        href: https://github.com/Yusuke-OKANO
+
+      - icon: envelope
+        href: "mailto:yokano.amecon@gmail.com"
 
 format:
   html:

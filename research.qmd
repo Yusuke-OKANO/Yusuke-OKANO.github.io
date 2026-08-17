@@ -1,15 +1,45 @@
 ---
 title: "Research"
+lang: en
 ---
 
 ## Working Papers
 
-### The Health Returns to School Air Conditioning: Evidence from Heat-Related Ambulance Use in Japan
+### The Health Returns to School Air Conditioning: Evidence from Summer Ambulance Use in Japan
 
-Revison requested at the *European Journal of Health Economics*
+*Revised and resubmitted at the European Journal of Health Economics.*
 
-## Work in Progress
+This paper studies the health effects of classroom air conditioning in Japan. 
+Using administrative data on school-origin ambulance use and quasi-experimental 
+variation in public-school air-conditioning installation, I examine whether 
+improved access to cooling reduces adverse health events among school-age children.
 
-- Energy Affordability and Summer Health
+<!--
+When you are ready to make the manuscript publicly available, add:
 
-- Cold Temperature, Housing, and Health
+[Paper](files/school_ac.pdf)
+
+You can also add:
+[Slides](files/school_ac_slides.pdf)
+-->
+
+
+### Electricity Price Hikes, Temperature, and Health: Evidence from Japan
+
+This paper examines whether increases in regulated electricity tariffs affect 
+home-origin ambulance use in Japan. I further study how the health response 
+varies with outdoor temperature, providing evidence on the health consequences 
+of energy affordability and household adaptation to heat.
+
+<!--
+When you are ready to make the manuscript publicly available, add:
+
+[Paper](files/electricity_health.pdf)
+-->
+
+
+## Research Agenda
+
+My broader research agenda lies at the intersection of health and environmental economics. 
+I am particularly interested in how climate, energy costs, housing conditions, 
+and other features of environment shape health and adaptation.

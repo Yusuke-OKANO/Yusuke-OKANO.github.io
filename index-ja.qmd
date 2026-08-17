@@ -1,21 +1,68 @@
 ---
-title: "日本語ページ（Japanese）"
+title: "岡野 有恭"
+subtitle: "一橋大学大学院経済学研究科 博士後期課程"
+lang: ja
 ---
 
-岡野　有恭
+::: {.home-intro}
 
-一橋大学大学院経済学研究科　博士後期課程
+**医療経済学 · 環境経済学 · 応用ミクロ経済学**
 
-## 関心領域
+医療経済学と環境経済学の交差領域を中心に研究しています。
+特に、気温やエネルギー価格、学校・住宅の設備といった生活環境が人々の健康や適応行動に与える影響について、行政データなどを用いた実証分析に取り組んでいます。
 
-- 医療経済学
-- 環境経済学
-- 応用ミクロ経済学
-- 気候適応
+:::
+
+::: {.home-links}
+
+[CV (PDF)](files/CV_Yusuke_Okano.pdf){.btn .btn-primary}
+
+[Research](research.qmd){.btn .btn-outline-primary}
+
+[Email](mailto:yokano.amecon@gmail.com){.btn .btn-outline-secondary}
+
+[English](index.qmd){.btn .btn-outline-secondary}
+
+:::
+
+
+## 主な研究
+
+### 学校空調の健康効果
+
+**The Health Returns to School Air Conditioning: Evidence from Summer Ambulance Use in Japan**
+
+*The European Journal of Health Economics に改訂・再投稿済み*
+
+日本の公立学校へのエアコン整備が児童・生徒の健康に与える影響を研究しています。
+学校からの救急搬送に関する行政データと、学校空調整備の準実験的な変動を用いることで、教室環境の改善が健康上の便益につながるかを検証しています。
+
+
+### 電気料金と健康
+
+**Electricity Price Hikes, Temperature, and Health: Evidence from Japan**
+
+電気料金の上昇が家庭における健康にどのような影響を与えるかを研究しています。
+特に、規制電気料金の改定と気温の変動を利用し、エネルギー負担と暑さへの適応が家庭からの救急搬送利用とどのように関連するかを分析しています。
+
+[研究の詳細はこちら（英語） →](research.qmd)
+
+
+## 教育経験
+
+- **計量経済学 Teaching Assistant**  
+  国際基督教大学（2025年度・2026年度）
+
+- **新入生向け基礎数学講師**  
+  日本大学経済学部 金融公共経済学科（2023年度–2025年度）
+
 
 ## 連絡先
 
-- メールアドレス1: yokano.amecon"at"gmail.com
-- メールアドレス2: ed255003"at"g.hit-u.ac.jp
+**岡野 有恭（Okano, Yusuke）**  
+一橋大学大学院経済学研究科 博士後期課程
 
-[English version](index.html)
+Email: [yokano.amecon@gmail.com](mailto:yokano.amecon@gmail.com)  
+University Email: [ed255003@g.hit-u.ac.jp](mailto:ed255003@g.hit-u.ac.jp)
+
+各種お問い合わせについては、上記メールアドレスまでご連絡ください。
