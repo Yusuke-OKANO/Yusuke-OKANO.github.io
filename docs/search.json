@@ -25,14 +25,21 @@
     "href": "index.html",
     "title": "Yusuke Okano",
     "section": "",
-    "text": "Health Economics · Environmental Economics · Applied Microeconomics\nMy research lies at the intersection of health and environmental economics. I study how environmental conditions and public policies affect health, with particular interests in climate adaptation, energy affordability, and the built environment."
+    "text": "Health Economics · Environmental Economics · Applied Microeconomics\nMy research lies at the intersection of health economics and environmental economics, with interests in climate adaptation, energy, housing, and applied microeconomics."
   },
   {
     "objectID": "index.html#selected-research",
     "href": "index.html#selected-research",
     "title": "Yusuke Okano",
     "section": "Selected Research",
-    "text": "Selected Research\n\nThe Health Returns to School Air Conditioning: Evidence from Summer Ambulance Use in Japan\nRevised and resubmitted at the European Journal of Health Economics.\nThis paper studies whether classroom air conditioning improves child health, using school-origin ambulance use in Japan and quasi-experimental variation in public-school air-conditioning installation.\n\n\nElectricity Price Hikes, Temperature, and Health: Evidence from Japan\nThis paper studies how increases in regulated electricity tariffs affect home-origin ambulance use and how the health response varies with outdoor temperature.\nMore about my research →"
+    "text": "Selected Research\n\nThe Health Returns to School Air Conditioning: Evidence from Summer Ambulance Use in Japan\nRevised and resubmitted at the European Journal of Health Economics.\nThis paper studies whether classroom air conditioning improves child health, using school-origin ambulance use in Japan and quasi-experimental variation in public-school air-conditioning installation.\n\n\nElectricity Prices, Temperature, and Ambulance Use: Evidence from a Tariff Hike in Japan\nThis paper studies how increases in regulated electricity tariffs affect home-origin ambulance use and how the health response varies with outdoor temperature.\nMore about my research →"
+  },
+  {
+    "objectID": "index.html#upcoming-presentations",
+    "href": "index.html#upcoming-presentations",
+    "title": "Yusuke Okano",
+    "section": "Upcoming Presentations",
+    "text": "Upcoming Presentations\n\nJapan Health Economics Association, 21st Annual Conference\nUniversity of Tokyo, Japan · September 5, 2026\nOral presentation.\n\nAll presentations →"
   },
   {
     "objectID": "index.html#contact",
@@ -67,14 +74,14 @@
     "href": "index-ja.html#主な研究",
     "title": "岡野 有恭",
     "section": "主な研究",
-    "text": "主な研究\n\n学校空調の健康効果\nThe Health Returns to School Air Conditioning: Evidence from Summer Ambulance Use in Japan\nThe European Journal of Health Economics に改訂・再投稿済み\n日本の公立学校へのエアコン整備が児童・生徒の健康に与える影響を研究しています。 学校からの救急搬送に関する行政データと、学校空調整備の準実験的な変動を用いることで、教室環境の改善が健康上の便益につながるかを検証しています。\n\n\n電気料金と健康\nElectricity Price Hikes, Temperature, and Health: Evidence from Japan\n電気料金の上昇が家庭における健康にどのような影響を与えるかを研究しています。 特に、規制電気料金の改定と気温の変動を利用し、エネルギー負担と暑さへの適応が家庭からの救急搬送利用とどのように関連するかを分析しています。\n研究の詳細はこちら（英語） →"
+    "text": "主な研究\n\n学校空調の健康効果\nThe Health Returns to School Air Conditioning: Evidence from Summer Ambulance Use in Japan\nThe European Journal of Health Economics に改訂・再投稿済み\n日本の公立学校へのエアコン整備が児童・生徒の健康に与える影響を研究しています。 学校からの救急搬送に関する行政データと、学校空調整備の準実験的な変動を用いることで、教室環境の改善が健康上の便益につながるかを検証しています。\n\n\n電気料金と健康\nElectricity Prices, Temperature, and Ambulance Use: Evidence from a Tariff Hike in Japan\n電気料金の上昇が家庭における健康にどのような影響を与えるかを研究しています。 特に、規制電気料金の改定と気温の変動を利用し、エネルギー負担と暑さへの適応が家庭からの救急搬送利用とどのように関連するかを分析しています。\n研究の詳細はこちら（英語） →"
   },
   {
     "objectID": "index-ja.html#教育経験",
     "href": "index-ja.html#教育経験",
     "title": "岡野 有恭",
     "section": "教育経験",
-    "text": "教育経験\n\n計量経済学 Teaching Assistant\n国際基督教大学（2025年度・2026年度）\n新入生向け基礎数学講師\n日本大学経済学部 金融公共経済学科（2023年度–2025年度）"
+    "text": "教育経験\n\n計量経済学 Teaching Assistant\n国際基督教大学（2025年度・2026年度）\nリメディアル講師（新入生向け基礎数学）\n日本大学経済学部 金融公共経済学科（2023年度–2025年度）"
   },
   {
     "objectID": "index-ja.html#連絡先",
@@ -88,27 +95,20 @@
     "href": "presentations.html",
     "title": "Presentations",
     "section": "",
-    "text": "“Electricity Tariff Hikes and Home-Origin Heat-Related Ambulance Uses: Evidence from Japan.”\nJapan Health Economics Association The 21st Annual Conference, University of Tokyo, Japan, September 3, 2026. Oral presentation.\n“The Health Returns to School Air Conditioning: Evidence from Heat-Related Ambulance Use in Japan.”\nEuropean Health Economics Association Conference 2026, Rotterdam, the Netherlands, July 15, 2026. Oral presentation.\n“The Health Effects of School Air Conditioning: Evidence from Ambulance Transport Data.”\nEIPPE Public Research Seminar: The 12th Education Data Science Seminar, Okayama University, Japan, January 21, 2026.\nInvited oral presentation."
+    "text": "Japan Health Economics Association, 21st Annual Conference\nUniversity of Tokyo, Japan · September 5, 2026\nOral presentation."
   },
   {
-    "objectID": "presentations.html#section",
-    "href": "presentations.html#section",
+    "objectID": "presentations.html#upcoming-presentations",
+    "href": "presentations.html#upcoming-presentations",
     "title": "Presentations",
     "section": "",
-    "text": "“Electricity Tariff Hikes and Home-Origin Heat-Related Ambulance Uses: Evidence from Japan.”\nJapan Health Economics Association The 21st Annual Conference, University of Tokyo, Japan, September 3, 2026. Oral presentation.\n“The Health Returns to School Air Conditioning: Evidence from Heat-Related Ambulance Use in Japan.”\nEuropean Health Economics Association Conference 2026, Rotterdam, the Netherlands, July 15, 2026. Oral presentation.\n“The Health Effects of School Air Conditioning: Evidence from Ambulance Transport Data.”\nEIPPE Public Research Seminar: The 12th Education Data Science Seminar, Okayama University, Japan, January 21, 2026.\nInvited oral presentation."
+    "text": "Japan Health Economics Association, 21st Annual Conference\nUniversity of Tokyo, Japan · September 5, 2026\nOral presentation."
   },
   {
-    "objectID": "presentations.html#section-1",
-    "href": "presentations.html#section-1",
+    "objectID": "presentations.html#past-presentations",
+    "href": "presentations.html#past-presentations",
     "title": "Presentations",
-    "section": "2025",
-    "text": "2025\n\n“The Impact of School Air Conditioning on Child Health: Evidence from Japan.”\nJapanese Economic Association 2025 Autumn Meeting, Hirosaki University, Japan, September 13, 2025.\nPoster presentation."
-  },
-  {
-    "objectID": "presentations.html#section-2",
-    "href": "presentations.html#section-2",
-    "title": "Presentations",
-    "section": "2024",
-    "text": "2024\n\n“The Effect of Public School Air Conditioning on Ambulance Uses of Students.”\nThe 22nd Young Researchers’ Seminar, Japan Health Economics Association, Gakushuin University, Japan, September 7, 2024.\nOral presentation."
+    "section": "Past Presentations",
+    "text": "Past Presentations\n\n2026\n\nEuropean Health Economics Association Conference\nErasmus University Rotterdam, Netherlands · July 15, 2026\nOral presentation.\nEIPPE Public Research Seminar: 12th Education Data Science Seminar\nOkayama University, Japan · January 21, 2026\nInvited oral presentation.\n\n\n\n2025\n\nJapanese Economic Association, 2025 Autumn Meeting\nHirosaki University, Japan · September 13, 2025\nPoster presentation.\n\n\n\n2024\n\n22nd Young Researchers’ Seminar, Japan Health Economics Association\nGakushuin University, Japan · September 7, 2024\nOral presentation."
   }
 ]

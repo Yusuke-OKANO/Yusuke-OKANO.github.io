@@ -24,7 +24,7 @@ You can also add:
 -->
 
 
-### Electricity Price Hikes, Temperature, and Health: Evidence from Japan
+### Electricity Prices, Temperature, and Ambulance Use: Evidence from a Tariff Hike in Japan
 
 This paper examines whether increases in regulated electricity tariffs affect 
 home-origin ambulance use in Japan. I further study how the health response 

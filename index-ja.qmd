@@ -40,7 +40,7 @@ lang: ja
 
 ### 電気料金と健康
 
-**Electricity Price Hikes, Temperature, and Health: Evidence from Japan**
+**Electricity Prices, Temperature, and Ambulance Use: Evidence from a Tariff Hike in Japan**
 
 電気料金の上昇が家庭における健康にどのような影響を与えるかを研究しています。
 特に、規制電気料金の改定と気温の変動を利用し、エネルギー負担と暑さへの適応が家庭からの救急搬送利用とどのように関連するかを分析しています。
@@ -53,7 +53,7 @@ lang: ja
 - **計量経済学 Teaching Assistant**  
   国際基督教大学（2025年度・2026年度）
 
-- **新入生向け基礎数学講師**  
+- **リメディアル講師（新入生向け基礎数学）**  
   日本大学経済学部 金融公共経済学科（2023年度–2025年度）
 
 

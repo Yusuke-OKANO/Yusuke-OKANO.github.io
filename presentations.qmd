@@ -2,27 +2,37 @@
 title: "Presentations"
 ---
 
-## 2026
-- "Electricity Tariff Hikes and Home-Origin Heat-Related Ambulance Uses: Evidence from Japan."  
-  Japan Health Economics Association The 21st Annual Conference, University of Tokyo, Japan, September 3, 2026.
+## Upcoming Presentations
+
+### 2026
+
+- **Japan Health Economics Association, 21st Annual Conference**  
+  University of Tokyo, Japan · September 5, 2026  
   Oral presentation.
 
-- "The Health Returns to School Air Conditioning: Evidence from Heat-Related Ambulance Use in Japan."  
-  European Health Economics Association Conference 2026, Rotterdam, the Netherlands, July 15, 2026.
+
+## Past Presentations
+
+### 2026
+
+- **European Health Economics Association Conference**  
+  Erasmus University Rotterdam, Netherlands · July 15, 2026  
   Oral presentation.
 
-- "The Health Effects of School Air Conditioning: Evidence from Ambulance Transport Data."  
-  EIPPE Public Research Seminar: The 12th Education Data Science Seminar, Okayama University, Japan, January 21, 2026.  
+- **EIPPE Public Research Seminar: 12th Education Data Science Seminar**  
+  Okayama University, Japan · January 21, 2026  
   Invited oral presentation.
 
-## 2025
 
-- "The Impact of School Air Conditioning on Child Health: Evidence from Japan."  
-  Japanese Economic Association 2025 Autumn Meeting, Hirosaki University, Japan, September 13, 2025.  
+### 2025
+
+- **Japanese Economic Association, 2025 Autumn Meeting**  
+  Hirosaki University, Japan · September 13, 2025  
   Poster presentation.
 
-## 2024
 
-- "The Effect of Public School Air Conditioning on Ambulance Uses of Students."  
-  The 22nd Young Researchers' Seminar, Japan Health Economics Association, Gakushuin University, Japan, September 7, 2024.  
+### 2024
+
+- **22nd Young Researchers' Seminar, Japan Health Economics Association**  
+  Gakushuin University, Japan · September 7, 2024  
   Oral presentation.

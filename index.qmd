@@ -8,18 +8,14 @@ lang: en
 
 **Health Economics · Environmental Economics · Applied Microeconomics**
 
-My research lies at the intersection of health and environmental economics. 
-I study how environmental conditions and public policies affect health, 
-with particular interests in climate adaptation, energy affordability, 
-and the built environment.
+My research lies at the intersection of health economics and environmental economics, with interests in climate adaptation, energy, housing, and applied microeconomics.
+
 
 :::
 
 ::: {.home-links}
 
 [CV (PDF)](files/CV_Yusuke_Okano.pdf){.btn .btn-primary}
-
-[Research](research.qmd){.btn .btn-outline-primary}
 
 [Email](mailto:yokano.amecon@gmail.com){.btn .btn-outline-secondary}
 
@@ -37,12 +33,21 @@ using school-origin ambulance use in Japan and quasi-experimental variation
 in public-school air-conditioning installation.
 
 
-### Electricity Price Hikes, Temperature, and Health: Evidence from Japan
+### Electricity Prices, Temperature, and Ambulance Use: Evidence from a Tariff Hike in Japan
 
 This paper studies how increases in regulated electricity tariffs affect 
 home-origin ambulance use and how the health response varies with outdoor temperature.
 
 [More about my research →](research.qmd)
+
+
+## Upcoming Presentations
+
+- **Japan Health Economics Association, 21st Annual Conference**  
+  University of Tokyo, Japan · September 5, 2026  
+  Oral presentation.
+
+[All presentations →](presentations.qmd)
 
 
 ## Contact

@@ -21,16 +21,19 @@ website:
     left:
       - href: research.qmd
         text: Research
+        
+      - href: presentations.qmd
+        text: Presentations
 
       - href: files/CV_Yusuke_Okano.pdf
         text: CV
 
     right:
       - href: index-ja.qmd
-        text: 日本語
+        text: 日本語ページ
 
-      - icon: github
-        href: https://github.com/Yusuke-OKANO
+      # - icon: github
+      #   href: https://github.com/Yusuke-OKANO
 
       - icon: envelope
         href: "mailto:yokano.amecon@gmail.com"
