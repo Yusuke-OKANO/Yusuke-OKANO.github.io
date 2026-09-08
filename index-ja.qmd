@@ -61,6 +61,7 @@ lang: ja
 
 **岡野 有恭（Okano, Yusuke）**  
 一橋大学大学院経済学研究科 博士後期課程
+公益財団法人三菱経済研究所 研究員
 
 Email: [yokano.amecon@gmail.com](mailto:yokano.amecon@gmail.com)  
 University Email: [ed255003@g.hit-u.ac.jp](mailto:ed255003@g.hit-u.ac.jp)
