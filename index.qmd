@@ -41,11 +41,9 @@ home-origin ambulance use and how the health response varies with outdoor temper
 [More about my research →](research.qmd)
 
 
-## Upcoming Presentations
+<!-- ## Upcoming Presentations -->
 
-- **Japan Health Economics Association, 21st Annual Conference**  
-  University of Tokyo, Japan · September 5, 2026  
-  Oral presentation.
+
 
 [All presentations →](presentations.qmd)
 
