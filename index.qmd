@@ -51,7 +51,6 @@ home-origin ambulance use and how the health response varies with outdoor temper
 ## Contact
 
 **Yusuke Okano**  
-Graduate School of Economics  
-Hitotsubashi University
+Graduate School of Economics, Hitotsubashi University
 
 Email: yokano.amecon[at]gmail.com
