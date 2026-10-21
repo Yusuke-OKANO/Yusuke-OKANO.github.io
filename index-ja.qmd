@@ -40,7 +40,7 @@ lang: ja
 
 **The Health Returns to School Air Conditioning: Evidence from Summer Ambulance Use in Japan**
 
-*The European Journal of Health Economics に改訂・再投稿済み*
+*2nd R&R at The European Journal of Health Economics*
 
 日本の公立学校へのエアコン整備が児童・生徒の健康に与える影響を研究しています。
 学校からの救急搬送に関する行政データと、学校空調整備の準実験的な変動を用いることで、教室環境の改善が健康上の便益につながるかを検証しています。

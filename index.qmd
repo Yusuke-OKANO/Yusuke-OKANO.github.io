@@ -26,7 +26,7 @@ My research lies at the intersection of health economics and environmental econo
 
 ### The Health Returns to School Air Conditioning: Evidence from Summer Ambulance Use in Japan
 
-*Revised and resubmitted at the European Journal of Health Economics.*
+*2nd R&R at The European Journal of Health Economics.*
 
 This paper studies whether classroom air conditioning improves child health, 
 using school-origin ambulance use in Japan and quasi-experimental variation 

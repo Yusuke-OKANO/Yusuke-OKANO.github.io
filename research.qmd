@@ -7,7 +7,7 @@ lang: en
 
 ### The Health Returns to School Air Conditioning: Evidence from Summer Ambulance Use in Japan
 
-*Revised and resubmitted at the European Journal of Health Economics.*
+*2nd R&R at The European Journal of Health Economics.*
 
 This paper studies the health effects of classroom air conditioning in Japan. 
 Using administrative data on school-origin ambulance use and quasi-experimental 
